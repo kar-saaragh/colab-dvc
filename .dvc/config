@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = gs://verofax_images/trial_dvc
+    url = gdrive://1vK_7H6JjgMd7YiLJ-7i5jqhitGHGF27T
